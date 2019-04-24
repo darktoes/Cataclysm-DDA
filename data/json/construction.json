@@ -53,6 +53,17 @@
   },
   {
     "type": "construction",
+    "description": "Split Tree Trunk Into Staves",
+    "category": "FARM_WOOD",
+    "required_skills": [ [ "fabrication", 5 ] ],
+    "time": 60,
+    "qualities": [ [ { "id": "CUT", "level": 1 }, { "id": "HAMMER_HEAVY", "level": 1 }, { "id": "AXE", "level": 1 } ] ],
+    "byproducts": [ [ { "item": "tree_stave", "count": 6 }, {"item": "2x4", "count": 3 }, {"item": "splinter", "count": 12 } ] ],
+    "pre_terrain": "t_trunk",
+    "post_terrain": "t_dirt"
+  },
+  {
+    "type": "construction",
     "skill": "survival",
     "description": "Build Improvised Shelter",
     "category": "CONSTRUCT",
