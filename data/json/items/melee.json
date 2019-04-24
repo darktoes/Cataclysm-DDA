@@ -68,6 +68,22 @@
   },
   {
     "type": "GENERIC",
+    "id": "tree_stave",
+    "symbol": "/",
+    "color": "brown",
+    "name": "tree stave",
+    "description": "A long stave from a section of tree trunk split into thick staves suitable for bowmaking.  A bit too unwieldy to use as an effective melee weapon.  Can be split into long sticks for crafting, or made into a bow.",
+    "material": "wood",
+    "techniques": [ "WBLOCK_1" ],
+    "flags": [ "TRADER_AVOID", "FIREWOOD" ],
+    "weight": 7000,
+    "volume": 25,
+    "bashing": 22,
+    "to_hit": -3,
+    "category": "spare_parts"
+  },
+  {
+    "type": "GENERIC",
     "id": "spear_rebar",
     "symbol": "/",
     "color": "dark_gray",
