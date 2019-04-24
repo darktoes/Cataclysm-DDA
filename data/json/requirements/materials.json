@@ -65,6 +65,20 @@
     ]
   },
   {
+    "id": "wood_sealant",
+    "type": "requirement",
+    "//": "Materials for sealing wood to keep out damaging moisture and prevent cracking. May require heating to soak in properly",
+    "components": [
+      [
+        [ "tallow", 1 ],
+        [ "cooking_oil", 8 ],
+        [ "cooking_oil2", 8 ],
+        [ "wax", 1 ],
+        [ "lamp_oil", 200 ]
+      ]
+    ]
+  },
+  {
     "id": "rope_natural",
     "type": "requirement",
     "//": "Materials used for lashing, when choice of makeshift rope or vine is sensible",
