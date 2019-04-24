@@ -462,7 +462,7 @@
     "volume": 10,
     "bashing": 40,
     "price": 12000,
-    "qualities": [ [ "HAMMER", 1 ] ]
+    "qualities": [ [ "HAMMER", 1 ], [ "HAMMER_HEAVY", 1 ] ]
   },
   {
     "type": "GENERIC",
@@ -481,7 +481,7 @@
     "bashing": 20,
     "cutting": 20,
     "price": 16000,
-    "qualities": [ [ "HAMMER", 1 ] ]
+    "qualities": [ [ "HAMMER", 1 ], [ "HAMMER_HEAVY", 1 ] ]
   },
   {
     "type": "GENERIC",
