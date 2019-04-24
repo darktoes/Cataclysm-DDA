@@ -2263,7 +2263,7 @@
     "type": "uncraft",
     "time": 4000,
     "qualities": [ { "id": "TREE_CUTTING", "level": 1 } ],
-    "components": [ [ [ "stick_long", 1 ] ], [ [ "2x4", 2 ] ] ]
+    "components": [ [ [ "stick_long", 1 ] ], [ [ "2x4", 2 ] ], [ [ "splinter", 3 ] ] ]
   },
   {
     "result": "leaf_spring",
