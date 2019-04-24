@@ -2259,6 +2259,13 @@
     "flags": [ "BLIND_EASY" ]
   },
   {
+    "result": "tree_stave",
+    "type": "uncraft",
+    "time": 4000,
+    "qualities": [ { "id": "TREE_CUTTING", "level": 1 } ],
+    "components": [ [ [ "stick_long", 1 ] ], [ [ "2x4", 2 ] ] ]
+  },
+  {
     "result": "leaf_spring",
     "type": "uncraft",
     "time": 3000,
